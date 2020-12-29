@@ -144,9 +144,4 @@ def close():
     exit()
 os.system("cls")
 intro()
-menu()
-	
-
-	
-        
-    	
+menu()	
